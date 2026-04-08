@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-0C447C?style=flat&logo=safari&logoColor=white)](https://nguyenquocanh.io.vn)
 [![Email](https://img.shields.io/badge/Email-nguyenquocanh.dev%40gmail.com-D85A30?style=flat&logo=gmail&logoColor=white)](mailto:nguyenquocanh.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40nqatech2003-185FA5?style=flat&logo=telegram&logoColor=white)](https://t.me/nqatech2003)
+[![Visitors](https://komarev.com/ghpvc/?username=nqatechzzz&style=flat&color=185FA5)](https://github.com/nqatechzzz)
 
 ---
 
@@ -21,7 +22,13 @@
 
 ---
 
-### Selected Projects
+### Frameworks & Tools
+
+[![Frameworks](https://skillicons.dev/icons?i=electron,vite,laravel,nodejs,express,androidstudio,go,solidity&perline=8)](https://skillicons.dev)
+
+---
+
+### Pet Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -40,5 +47,3 @@ Contributed to [vibe.j2team.org](https://vibe.j2team.org):
 - `DBDiagram.vue` — DBML editor with live SVG ER diagram and SQL export
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqatechzzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true)
